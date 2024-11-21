@@ -1,0 +1,17 @@
+.one{
+    width: 100vw;
+    height: 33.3vh;
+}
+#first{
+    background: orange;
+}
+#second{
+    background: white;
+}
+#third{
+    background: green;
+}
+.main{
+    background-color: aqua;
+    width: 33vw;
+}
